@@ -1,0 +1,19 @@
+<p>
+    creacion-personas works!
+</p>
+<table>
+    <tr>
+        <th>Id</th>
+        <th>Tipo Identificacion</th>
+        <th>Numero Identificacion</th>
+        <th>Nombre</th>
+        <th>Apellido</th>
+    </tr>
+    <tr *ngFor="let per of creacion-personas">
+        <td>{{per.id}}</td>
+        <td>{{per.tipoid}}</td>
+        <td>{{per.identificacion}}</td>
+        <td>{{per.nombre}}</td>
+        <td>{{per.apellido}}</td>
+    </tr>
+</table>
