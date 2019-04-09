@@ -1,0 +1,12 @@
+package Geometria;
+
+public class FiguraApp {
+
+	public static void main(String[] args) {
+		Figura triangulo = new Figura(3);
+		
+		System.out.println(triangulo.dibujar());
+
+	}
+
+}

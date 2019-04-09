@@ -1,0 +1,14 @@
+package Geometria;
+
+public class FiguraApp {
+
+	public static void main(String[] args) {
+		Figura triangulo = new Triangulo(31,"Isoceles");
+		Figura circulo = new Circulo(0,"Grande");
+		
+		System.out.println(triangulo.getNombre());
+		System.out.println(triangulo.dibujar());
+
+	}
+
+}

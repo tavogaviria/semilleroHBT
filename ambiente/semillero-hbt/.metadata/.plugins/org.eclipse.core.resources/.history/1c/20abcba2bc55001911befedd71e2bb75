@@ -1,0 +1,16 @@
+package Geometria;
+
+public abstract class Figura {
+
+	public int lados;
+	
+	public int getLados() {
+		return lados;
+	}
+
+	public void setLados(int lados) {
+		this.lados = lados;
+	}
+
+	public abstract int dibujar();
+}

@@ -1,0 +1,321 @@
+[2019-04-03 20:01:14.148] [sharedprocess] [info] main {"machineId":"03d1c6a800490e7e8d1e8dfdbeb8a449db6ef5e182ba956e3b17df693dfd25d8"}
+[2019-04-03 20:01:14.165] [sharedprocess] [info] Scanned user extensions: 0
+[2019-04-03 20:01:14.280] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-03 20:01:28.749] [sharedprocess] [info] Scanned user extensions: 0
+[2019-04-03 20:01:28.752] [sharedprocess] [info] Scanned user extensions: 0
+[2019-04-03 20:01:28.838] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-03 20:01:44.888] [sharedprocess] [info] Scanned user extensions: 0
+[2019-04-03 20:01:44.972] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-03 20:01:47.751] [sharedprocess] [info] Scanned user extensions: 0
+[2019-04-03 20:01:48.174] [sharedprocess] [info] Scanned user extensions: 0
+[2019-04-03 20:01:48.528] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-03 20:01:48.695] [sharedprocess] [info] Scanned user extensions: 0
+[2019-04-03 20:01:48.816] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-03 20:01:51.682] [sharedprocess] [info] Scanned user extensions: 0
+[2019-04-03 20:01:51.683] [sharedprocess] [info] Scanned user extensions: 0
+[2019-04-03 20:01:51.683] [sharedprocess] [info] Installing the extension: codemix.angular-0.9.3
+[2019-04-03 20:01:51.687] [sharedprocess] [info] Scanned user extensions: 0
+[2019-04-03 20:01:51.785] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-03 20:01:51.994] [sharedprocess] [info] Extracted extension to C:\Users\USUARIO\.codemix\extensions\.codemix.angular-0.9.3: codemix.angular-0.9.3
+[2019-04-03 20:01:52.225] [sharedprocess] [info] Renamed to C:\Users\USUARIO\.codemix\extensions\codemix.angular-0.9.3
+[2019-04-03 20:01:52.225] [sharedprocess] [info] Installation completed. codemix.angular-0.9.3
+[2019-04-03 20:01:52.229] [sharedprocess] [info] Successfully installed the extension: codemix.angular-0.9.3
+[2019-04-03 20:01:52.261] [sharedprocess] [info] Scanned user extensions: 1
+[2019-04-03 20:01:52.276] [sharedprocess] [info] Scanned user extensions: 1
+[2019-04-03 20:01:52.402] [sharedprocess] [info] Scanned user extensions: 1
+[2019-04-03 20:01:52.404] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-03 20:01:52.508] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-03 20:01:52.517] [sharedprocess] [info] Scanned user extensions: 1
+[2019-04-03 20:01:52.520] [sharedprocess] [info] Scanned user extensions: 1
+[2019-04-03 20:01:52.520] [sharedprocess] [info] Installing the extension: codemix.web-0.9.3
+[2019-04-03 20:01:52.527] [sharedprocess] [info] Scanned user extensions: 1
+[2019-04-03 20:01:52.620] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-03 20:01:52.917] [sharedprocess] [info] Extracted extension to C:\Users\USUARIO\.codemix\extensions\.codemix.web-0.9.3: codemix.web-0.9.3
+[2019-04-03 20:01:53.102] [sharedprocess] [info] Renamed to C:\Users\USUARIO\.codemix\extensions\codemix.web-0.9.3
+[2019-04-03 20:01:53.103] [sharedprocess] [info] Installation completed. codemix.web-0.9.3
+[2019-04-03 20:01:53.110] [sharedprocess] [info] Successfully installed the extension: codemix.web-0.9.3
+[2019-04-03 20:01:53.131] [sharedprocess] [info] Scanned user extensions: 2
+[2019-04-03 20:01:53.146] [sharedprocess] [info] Scanned user extensions: 2
+[2019-04-03 20:01:53.222] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-03 20:01:53.270] [sharedprocess] [info] Scanned user extensions: 2
+[2019-04-03 20:01:53.357] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-03 20:01:53.425] [sharedprocess] [info] Scanned user extensions: 2
+[2019-04-03 20:01:53.429] [sharedprocess] [info] Scanned user extensions: 2
+[2019-04-03 20:01:53.429] [sharedprocess] [info] Installing the extension: codemix.typescript-0.9.3
+[2019-04-03 20:01:53.438] [sharedprocess] [info] Scanned user extensions: 2
+[2019-04-03 20:01:53.548] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-03 20:01:53.686] [sharedprocess] [info] Extracted extension to C:\Users\USUARIO\.codemix\extensions\.codemix.typescript-0.9.3: codemix.typescript-0.9.3
+[2019-04-03 20:01:53.688] [sharedprocess] [info] Renamed to C:\Users\USUARIO\.codemix\extensions\codemix.typescript-0.9.3
+[2019-04-03 20:01:53.688] [sharedprocess] [info] Installation completed. codemix.typescript-0.9.3
+[2019-04-03 20:01:53.691] [sharedprocess] [info] Successfully installed the extension: codemix.typescript-0.9.3
+[2019-04-03 20:01:53.696] [sharedprocess] [info] Scanned user extensions: 3
+[2019-04-03 20:01:53.705] [sharedprocess] [info] Scanned user extensions: 3
+[2019-04-03 20:01:53.753] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-03 20:01:53.804] [sharedprocess] [info] Scanned user extensions: 3
+[2019-04-03 20:01:53.861] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-03 20:01:54.156] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-04-03 20:02:16.832] [sharedprocess] [info] Scanned user extensions: 3
+[2019-04-03 20:02:16.835] [sharedprocess] [info] Scanned user extensions: 3
+[2019-04-03 20:02:16.835] [sharedprocess] [info] Installing the extension: ms-vscode.node-debug2-1.24.2
+[2019-04-03 20:02:16.846] [sharedprocess] [info] Scanned user extensions: 3
+[2019-04-03 20:02:16.918] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-03 20:02:22.635] [sharedprocess] [info] Extracted extension to C:\Users\USUARIO\.codemix\extensions\.ms-vscode.node-debug2-1.24.2: ms-vscode.node-debug2-1.24.2
+[2019-04-03 20:02:22.655] [sharedprocess] [info] Renamed to C:\Users\USUARIO\.codemix\extensions\ms-vscode.node-debug2-1.24.2
+[2019-04-03 20:02:22.655] [sharedprocess] [info] Installation completed. ms-vscode.node-debug2-1.24.2
+[2019-04-03 20:02:22.658] [sharedprocess] [info] Successfully installed the extension: ms-vscode.node-debug2-1.24.2
+[2019-04-03 20:02:22.665] [sharedprocess] [info] Scanned user extensions: 4
+[2019-04-03 20:02:22.675] [sharedprocess] [info] Scanned user extensions: 4
+[2019-04-03 20:02:22.731] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-03 20:02:22.767] [sharedprocess] [info] Scanned user extensions: 4
+[2019-04-03 20:02:22.803] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-03 20:03:40.975] [sharedprocess] [info] Scanned user extensions: 4
+[2019-04-03 20:03:40.979] [sharedprocess] [info] Scanned user extensions: 4
+[2019-04-03 20:03:40.979] [sharedprocess] [info] Installing the extension: eg2.tslint-1.0.29
+[2019-04-03 20:03:40.989] [sharedprocess] [info] Scanned user extensions: 4
+[2019-04-03 20:03:41.044] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-03 20:04:23.814] [sharedprocess] [info] Extracted extension to C:\Users\USUARIO\.codemix\extensions\.eg2.tslint-1.0.29: eg2.tslint-1.0.29
+[2019-04-03 20:04:23.818] [sharedprocess] [info] Renamed to C:\Users\USUARIO\.codemix\extensions\eg2.tslint-1.0.29
+[2019-04-03 20:04:23.818] [sharedprocess] [info] Installation completed. eg2.tslint-1.0.29
+[2019-04-03 20:04:23.833] [sharedprocess] [info] Successfully installed the extension: eg2.tslint-1.0.29
+[2019-04-03 20:04:23.841] [sharedprocess] [info] Scanned user extensions: 5
+[2019-04-03 20:04:23.856] [sharedprocess] [info] Scanned user extensions: 5
+[2019-04-03 20:04:23.913] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-03 20:04:23.947] [sharedprocess] [info] Scanned user extensions: 5
+[2019-04-03 20:04:23.957] [sharedprocess] [info] Scanned user extensions: 5
+[2019-04-03 20:04:24.071] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-03 20:04:24.075] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-03 20:04:24.087] [sharedprocess] [info] Scanned user extensions: 5
+[2019-04-03 20:04:24.092] [sharedprocess] [info] Scanned user extensions: 5
+[2019-04-03 20:04:24.092] [sharedprocess] [info] Installing the extension: formulahendry.auto-close-tag-0.5.6
+[2019-04-03 20:04:24.105] [sharedprocess] [info] Scanned user extensions: 5
+[2019-04-03 20:04:24.157] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-03 20:04:24.406] [sharedprocess] [info] Extracted extension to C:\Users\USUARIO\.codemix\extensions\.formulahendry.auto-close-tag-0.5.6: formulahendry.auto-close-tag-0.5.6
+[2019-04-03 20:04:24.408] [sharedprocess] [info] Renamed to C:\Users\USUARIO\.codemix\extensions\formulahendry.auto-close-tag-0.5.6
+[2019-04-03 20:04:24.408] [sharedprocess] [info] Installation completed. formulahendry.auto-close-tag-0.5.6
+[2019-04-03 20:04:24.411] [sharedprocess] [info] Successfully installed the extension: formulahendry.auto-close-tag-0.5.6
+[2019-04-03 20:04:24.419] [sharedprocess] [info] Scanned user extensions: 6
+[2019-04-03 20:04:24.431] [sharedprocess] [info] Scanned user extensions: 6
+[2019-04-03 20:04:24.495] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-03 20:04:24.534] [sharedprocess] [info] Scanned user extensions: 6
+[2019-04-03 20:04:24.590] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-03 20:04:24.604] [sharedprocess] [info] Scanned user extensions: 6
+[2019-04-03 20:04:24.606] [sharedprocess] [info] Deleted from disk codemix.web-0.9.3
+[2019-04-03 20:04:24.612] [sharedprocess] [info] Scanned user extensions: 5
+[2019-04-03 20:04:24.612] [sharedprocess] [info] Installing the extension: codemix.web-0.9.3
+[2019-04-03 20:04:24.623] [sharedprocess] [info] Scanned user extensions: 5
+[2019-04-03 20:04:24.682] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-03 20:04:24.704] [sharedprocess] [info] Extracted extension to C:\Users\USUARIO\.codemix\extensions\.codemix.web-0.9.3: codemix.web-0.9.3
+[2019-04-03 20:04:24.706] [sharedprocess] [info] Renamed to C:\Users\USUARIO\.codemix\extensions\codemix.web-0.9.3
+[2019-04-03 20:04:24.706] [sharedprocess] [info] Installation completed. codemix.web-0.9.3
+[2019-04-03 20:04:24.708] [sharedprocess] [info] Successfully installed the extension: codemix.web-0.9.3
+[2019-04-03 20:04:24.716] [sharedprocess] [info] Scanned user extensions: 6
+[2019-04-03 20:04:24.731] [sharedprocess] [info] Scanned user extensions: 6
+[2019-04-03 20:04:24.789] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-03 20:04:24.834] [sharedprocess] [info] Scanned user extensions: 6
+[2019-04-03 20:04:24.890] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-03 20:04:24.902] [sharedprocess] [info] Scanned user extensions: 6
+[2019-04-03 20:04:24.907] [sharedprocess] [info] Scanned user extensions: 6
+[2019-04-03 20:04:24.907] [sharedprocess] [info] Installing the extension: christian-kohler.path-intellisense-1.4.2
+[2019-04-03 20:04:24.922] [sharedprocess] [info] Scanned user extensions: 6
+[2019-04-03 20:04:24.981] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-03 20:04:25.811] [sharedprocess] [info] Extracted extension to C:\Users\USUARIO\.codemix\extensions\.christian-kohler.path-intellisense-1.4.2: christian-kohler.path-intellisense-1.4.2
+[2019-04-03 20:04:25.813] [sharedprocess] [info] Renamed to C:\Users\USUARIO\.codemix\extensions\christian-kohler.path-intellisense-1.4.2
+[2019-04-03 20:04:25.813] [sharedprocess] [info] Installation completed. christian-kohler.path-intellisense-1.4.2
+[2019-04-03 20:04:25.815] [sharedprocess] [info] Successfully installed the extension: christian-kohler.path-intellisense-1.4.2
+[2019-04-03 20:04:25.821] [sharedprocess] [info] Scanned user extensions: 7
+[2019-04-03 20:04:25.832] [sharedprocess] [info] Scanned user extensions: 7
+[2019-04-03 20:04:25.880] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-03 20:04:25.928] [sharedprocess] [info] Scanned user extensions: 7
+[2019-04-03 20:04:25.977] [sharedprocess] [info] Scanned user extensions: 7
+[2019-04-03 20:04:25.980] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-03 20:04:25.989] [sharedprocess] [info] Scanned user extensions: 7
+[2019-04-03 20:04:25.989] [sharedprocess] [info] Installing the extension: codemix.node-0.9.2
+[2019-04-03 20:04:26.010] [sharedprocess] [info] Scanned user extensions: 7
+[2019-04-03 20:04:26.062] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-03 20:04:26.089] [sharedprocess] [info] Extracted extension to C:\Users\USUARIO\.codemix\extensions\.codemix.node-0.9.2: codemix.node-0.9.2
+[2019-04-03 20:04:26.090] [sharedprocess] [info] Renamed to C:\Users\USUARIO\.codemix\extensions\codemix.node-0.9.2
+[2019-04-03 20:04:26.090] [sharedprocess] [info] Installation completed. codemix.node-0.9.2
+[2019-04-03 20:04:26.093] [sharedprocess] [info] Successfully installed the extension: codemix.node-0.9.2
+[2019-04-03 20:04:26.103] [sharedprocess] [info] Scanned user extensions: 8
+[2019-04-03 20:04:26.117] [sharedprocess] [info] Scanned user extensions: 8
+[2019-04-03 20:04:26.168] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-03 20:04:26.223] [sharedprocess] [info] Scanned user extensions: 8
+[2019-04-03 20:04:26.306] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-03 20:04:26.323] [sharedprocess] [info] Scanned user extensions: 8
+[2019-04-03 20:04:26.335] [sharedprocess] [info] Scanned user extensions: 8
+[2019-04-03 20:04:26.335] [sharedprocess] [info] Installing the extension: formulahendry.code-runner-0.9.3
+[2019-04-03 20:04:26.376] [sharedprocess] [info] Scanned user extensions: 8
+[2019-04-03 20:04:26.434] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-03 20:04:29.416] [sharedprocess] [info] Extracted extension to C:\Users\USUARIO\.codemix\extensions\.formulahendry.code-runner-0.9.3: formulahendry.code-runner-0.9.3
+[2019-04-03 20:04:29.418] [sharedprocess] [info] Renamed to C:\Users\USUARIO\.codemix\extensions\formulahendry.code-runner-0.9.3
+[2019-04-03 20:04:29.418] [sharedprocess] [info] Installation completed. formulahendry.code-runner-0.9.3
+[2019-04-03 20:04:29.421] [sharedprocess] [info] Successfully installed the extension: formulahendry.code-runner-0.9.3
+[2019-04-03 20:04:29.431] [sharedprocess] [info] Scanned user extensions: 9
+[2019-04-03 20:04:29.444] [sharedprocess] [info] Scanned user extensions: 9
+[2019-04-03 20:04:29.510] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-03 20:04:29.696] [sharedprocess] [info] Scanned user extensions: 9
+[2019-04-03 20:04:29.736] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-03 20:04:29.774] [sharedprocess] [info] Scanned user extensions: 9
+[2019-04-03 20:04:29.783] [sharedprocess] [info] Scanned user extensions: 9
+[2019-04-03 20:04:29.783] [sharedprocess] [info] Installing the extension: msjsdiag.debugger-for-chrome-4.4.3
+[2019-04-03 20:04:29.792] [sharedprocess] [info] Scanned user extensions: 9
+[2019-04-03 20:04:29.863] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-03 20:04:37.332] [sharedprocess] [info] Extracted extension to C:\Users\USUARIO\.codemix\extensions\.msjsdiag.debugger-for-chrome-4.4.3: msjsdiag.debugger-for-chrome-4.4.3
+[2019-04-03 20:04:37.334] [sharedprocess] [info] Failed renaming C:\Users\USUARIO\.codemix\extensions\.msjsdiag.debugger-for-chrome-4.4.3 to C:\Users\USUARIO\.codemix\extensions\msjsdiag.debugger-for-chrome-4.4.3 with 'EPERM' error. Trying again...
+[2019-04-03 20:04:37.336] [sharedprocess] [info] Renamed to C:\Users\USUARIO\.codemix\extensions\msjsdiag.debugger-for-chrome-4.4.3
+[2019-04-03 20:04:37.336] [sharedprocess] [info] Installation completed. msjsdiag.debugger-for-chrome-4.4.3
+[2019-04-03 20:04:37.339] [sharedprocess] [info] Successfully installed the extension: msjsdiag.debugger-for-chrome-4.4.3
+[2019-04-03 20:04:37.349] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-03 20:04:37.369] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-03 20:04:37.430] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-03 20:04:37.479] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-03 20:04:37.529] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-03 20:04:38.920] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-03 20:04:38.926] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-03 20:04:38.926] [sharedprocess] [info] Installing the extension: angular.ng-template-0.1.9
+[2019-04-03 20:04:38.937] [sharedprocess] [info] Scanned user extensions: 10
+[2019-04-03 20:04:38.982] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-03 20:04:51.763] [sharedprocess] [info] Extracted extension to C:\Users\USUARIO\.codemix\extensions\.angular.ng-template-0.1.9: angular.ng-template-0.1.9
+[2019-04-03 20:04:51.766] [sharedprocess] [info] Renamed to C:\Users\USUARIO\.codemix\extensions\angular.ng-template-0.1.9
+[2019-04-03 20:04:51.766] [sharedprocess] [info] Installation completed. angular.ng-template-0.1.9
+[2019-04-03 20:04:51.768] [sharedprocess] [info] Successfully installed the extension: angular.ng-template-0.1.9
+[2019-04-03 20:04:51.778] [sharedprocess] [info] Scanned user extensions: 11
+[2019-04-03 20:04:51.799] [sharedprocess] [info] Scanned user extensions: 11
+[2019-04-03 20:04:51.842] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-03 20:04:51.912] [sharedprocess] [info] Scanned user extensions: 11
+[2019-04-03 20:04:51.956] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-03 20:04:51.995] [sharedprocess] [info] Scanned user extensions: 11
+[2019-04-03 20:04:52.003] [sharedprocess] [info] Scanned user extensions: 11
+[2019-04-03 20:04:52.003] [sharedprocess] [info] Installing the extension: dbaeumer.vscode-eslint-1.4.10
+[2019-04-03 20:04:52.015] [sharedprocess] [info] Scanned user extensions: 11
+[2019-04-03 20:04:52.053] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-03 20:04:56.415] [sharedprocess] [info] Extracted extension to C:\Users\USUARIO\.codemix\extensions\.dbaeumer.vscode-eslint-1.4.10: dbaeumer.vscode-eslint-1.4.10
+[2019-04-03 20:04:56.417] [sharedprocess] [info] Renamed to C:\Users\USUARIO\.codemix\extensions\dbaeumer.vscode-eslint-1.4.10
+[2019-04-03 20:04:56.417] [sharedprocess] [info] Installation completed. dbaeumer.vscode-eslint-1.4.10
+[2019-04-03 20:04:56.419] [sharedprocess] [info] Successfully installed the extension: dbaeumer.vscode-eslint-1.4.10
+[2019-04-03 20:04:56.434] [sharedprocess] [info] Scanned user extensions: 12
+[2019-04-03 20:04:56.458] [sharedprocess] [info] Scanned user extensions: 12
+[2019-04-03 20:04:56.503] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-03 20:04:56.601] [sharedprocess] [info] Scanned user extensions: 12
+[2019-04-03 20:04:56.606] [sharedprocess] [info] Scanned user extensions: 12
+[2019-04-03 20:04:56.744] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-03 20:04:56.751] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-03 20:04:56.774] [sharedprocess] [info] Scanned user extensions: 12
+[2019-04-03 20:04:56.786] [sharedprocess] [info] Scanned user extensions: 12
+[2019-04-03 20:04:56.786] [sharedprocess] [info] Installing the extension: johnpapa.angular2-6.1.1
+[2019-04-03 20:04:56.824] [sharedprocess] [info] Scanned user extensions: 12
+[2019-04-03 20:04:56.915] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-03 20:04:57.653] [sharedprocess] [info] Extracted extension to C:\Users\USUARIO\.codemix\extensions\.johnpapa.angular2-6.1.1: johnpapa.angular2-6.1.1
+[2019-04-03 20:04:57.655] [sharedprocess] [info] Renamed to C:\Users\USUARIO\.codemix\extensions\johnpapa.angular2-6.1.1
+[2019-04-03 20:04:57.655] [sharedprocess] [info] Installation completed. johnpapa.angular2-6.1.1
+[2019-04-03 20:04:57.657] [sharedprocess] [info] Successfully installed the extension: johnpapa.angular2-6.1.1
+[2019-04-03 20:04:57.669] [sharedprocess] [info] Scanned user extensions: 13
+[2019-04-03 20:04:57.691] [sharedprocess] [info] Scanned user extensions: 13
+[2019-04-03 20:04:57.753] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-03 20:04:57.803] [sharedprocess] [info] Scanned user extensions: 13
+[2019-04-03 20:04:57.851] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-03 20:04:57.873] [sharedprocess] [info] Scanned user extensions: 13
+[2019-04-03 20:04:57.891] [sharedprocess] [info] Scanned user extensions: 13
+[2019-04-03 20:04:57.891] [sharedprocess] [info] Installing the extension: xabikos.javascriptsnippets-1.6.0
+[2019-04-03 20:04:57.924] [sharedprocess] [info] Scanned user extensions: 13
+[2019-04-03 20:04:57.971] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-03 20:04:58.814] [sharedprocess] [info] Extracted extension to C:\Users\USUARIO\.codemix\extensions\.xabikos.javascriptsnippets-1.6.0: xabikos.javascriptsnippets-1.6.0
+[2019-04-03 20:04:58.816] [sharedprocess] [info] Renamed to C:\Users\USUARIO\.codemix\extensions\xabikos.javascriptsnippets-1.6.0
+[2019-04-03 20:04:58.816] [sharedprocess] [info] Installation completed. xabikos.javascriptsnippets-1.6.0
+[2019-04-03 20:04:58.818] [sharedprocess] [info] Successfully installed the extension: xabikos.javascriptsnippets-1.6.0
+[2019-04-03 20:04:58.828] [sharedprocess] [info] Scanned user extensions: 14
+[2019-04-03 20:04:58.850] [sharedprocess] [info] Scanned user extensions: 14
+[2019-04-03 20:04:58.877] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-03 20:04:58.934] [sharedprocess] [info] Scanned user extensions: 14
+[2019-04-03 20:04:58.976] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-03 20:04:59.053] [sharedprocess] [info] Scanned user extensions: 14
+[2019-04-03 20:04:59.063] [sharedprocess] [info] Scanned user extensions: 14
+[2019-04-03 20:04:59.063] [sharedprocess] [info] Installing the extension: formulahendry.auto-rename-tag-0.0.15
+[2019-04-03 20:04:59.077] [sharedprocess] [info] Scanned user extensions: 14
+[2019-04-03 20:04:59.127] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-03 20:04:59.430] [sharedprocess] [info] Extracted extension to C:\Users\USUARIO\.codemix\extensions\.formulahendry.auto-rename-tag-0.0.15: formulahendry.auto-rename-tag-0.0.15
+[2019-04-03 20:04:59.432] [sharedprocess] [info] Renamed to C:\Users\USUARIO\.codemix\extensions\formulahendry.auto-rename-tag-0.0.15
+[2019-04-03 20:04:59.432] [sharedprocess] [info] Installation completed. formulahendry.auto-rename-tag-0.0.15
+[2019-04-03 20:04:59.434] [sharedprocess] [info] Successfully installed the extension: formulahendry.auto-rename-tag-0.0.15
+[2019-04-03 20:04:59.444] [sharedprocess] [info] Scanned user extensions: 15
+[2019-04-03 20:04:59.464] [sharedprocess] [info] Scanned user extensions: 15
+[2019-04-03 20:04:59.512] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-03 20:04:59.682] [sharedprocess] [info] Scanned user extensions: 15
+[2019-04-03 20:04:59.712] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-03 20:05:03.781] [sharedprocess] [info] Scanned user extensions: 15
+[2019-04-03 20:05:03.790] [sharedprocess] [info] Scanned user extensions: 15
+[2019-04-03 20:05:03.790] [sharedprocess] [info] Installing the extension: bradgashler.htmltagwrap-0.0.7
+[2019-04-03 20:05:03.808] [sharedprocess] [info] Scanned user extensions: 15
+[2019-04-03 20:05:03.854] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-03 20:05:04.049] [sharedprocess] [info] Extracted extension to C:\Users\USUARIO\.codemix\extensions\.bradgashler.htmltagwrap-0.0.7: bradgashler.htmltagwrap-0.0.7
+[2019-04-03 20:05:04.051] [sharedprocess] [info] Renamed to C:\Users\USUARIO\.codemix\extensions\bradgashler.htmltagwrap-0.0.7
+[2019-04-03 20:05:04.051] [sharedprocess] [info] Installation completed. bradgashler.htmltagwrap-0.0.7
+[2019-04-03 20:05:04.053] [sharedprocess] [info] Successfully installed the extension: bradgashler.htmltagwrap-0.0.7
+[2019-04-03 20:05:04.066] [sharedprocess] [info] Scanned user extensions: 16
+[2019-04-03 20:05:04.133] [sharedprocess] [info] Scanned user extensions: 16
+[2019-04-03 20:05:04.194] [sharedprocess] [info] Scanned user extensions: 16
+[2019-04-03 20:05:04.202] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-03 20:05:04.287] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-03 20:05:04.944] [sharedprocess] [info] Scanned user extensions: 16
+[2019-04-03 20:05:04.946] [sharedprocess] [info] Deleted from disk codemix.typescript-0.9.3
+[2019-04-03 20:05:04.956] [sharedprocess] [info] Scanned user extensions: 15
+[2019-04-03 20:05:04.956] [sharedprocess] [info] Installing the extension: codemix.typescript-0.9.3
+[2019-04-03 20:05:04.979] [sharedprocess] [info] Scanned user extensions: 15
+[2019-04-03 20:05:05.029] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-03 20:05:05.072] [sharedprocess] [info] Extracted extension to C:\Users\USUARIO\.codemix\extensions\.codemix.typescript-0.9.3: codemix.typescript-0.9.3
+[2019-04-03 20:05:05.074] [sharedprocess] [info] Renamed to C:\Users\USUARIO\.codemix\extensions\codemix.typescript-0.9.3
+[2019-04-03 20:05:05.074] [sharedprocess] [info] Installation completed. codemix.typescript-0.9.3
+[2019-04-03 20:05:05.076] [sharedprocess] [info] Successfully installed the extension: codemix.typescript-0.9.3
+[2019-04-03 20:05:05.088] [sharedprocess] [info] Scanned user extensions: 16
+[2019-04-03 20:05:05.128] [sharedprocess] [info] Scanned user extensions: 16
+[2019-04-03 20:05:05.165] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-03 20:05:05.207] [sharedprocess] [info] Scanned user extensions: 16
+[2019-04-03 20:05:05.247] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-03 20:05:10.059] [sharedprocess] [info] Scanned user extensions: 16
+[2019-04-03 20:05:10.072] [sharedprocess] [info] Scanned user extensions: 16
+[2019-04-03 20:05:10.072] [sharedprocess] [info] Installing the extension: mkaufman.htmlhint-0.5.0
+[2019-04-03 20:05:10.103] [sharedprocess] [info] Scanned user extensions: 16
+[2019-04-03 20:05:10.151] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-03 20:05:27.805] [sharedprocess] [info] Extracted extension to C:\Users\USUARIO\.codemix\extensions\.mkaufman.htmlhint-0.5.0: mkaufman.htmlhint-0.5.0
+[2019-04-03 20:05:27.808] [sharedprocess] [info] Renamed to C:\Users\USUARIO\.codemix\extensions\mkaufman.htmlhint-0.5.0
+[2019-04-03 20:05:27.808] [sharedprocess] [info] Installation completed. mkaufman.htmlhint-0.5.0
+[2019-04-03 20:05:27.810] [sharedprocess] [info] Successfully installed the extension: mkaufman.htmlhint-0.5.0
+[2019-04-03 20:05:27.823] [sharedprocess] [info] Scanned user extensions: 17
+[2019-04-03 20:05:27.849] [sharedprocess] [info] Scanned user extensions: 17
+[2019-04-03 20:05:27.885] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-03 20:05:27.944] [sharedprocess] [info] Scanned user extensions: 17
+[2019-04-03 20:05:28.009] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-03 20:05:31.825] [sharedprocess] [info] Scanned user extensions: 17
+[2019-04-03 20:05:31.832] [sharedprocess] [info] Scanned user extensions: 17
+[2019-04-03 20:05:31.890] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-03 20:05:33.789] [sharedprocess] [info] Scanned user extensions: 17
+[2019-04-03 20:05:33.938] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-03 20:05:35.176] [sharedprocess] [info] Scanned user extensions: 17
+[2019-04-03 20:10:35.734] [sharedprocess] [info] Scanned user extensions: 17
+[2019-04-03 20:15:35.754] [sharedprocess] [info] Scanned user extensions: 17
+[2019-04-03 20:20:35.773] [sharedprocess] [info] Scanned user extensions: 17
+[2019-04-03 20:25:35.792] [sharedprocess] [info] Scanned user extensions: 17
+[2019-04-03 20:30:35.816] [sharedprocess] [info] Scanned user extensions: 17
+[2019-04-03 20:35:35.843] [sharedprocess] [info] Scanned user extensions: 17
+[2019-04-03 20:40:35.866] [sharedprocess] [info] Scanned user extensions: 17
+[2019-04-03 20:45:35.889] [sharedprocess] [info] Scanned user extensions: 17
+[2019-04-03 20:50:35.911] [sharedprocess] [info] Scanned user extensions: 17
+[2019-04-03 20:55:35.930] [sharedprocess] [info] Scanned user extensions: 17
+[2019-04-03 21:00:35.961] [sharedprocess] [info] Scanned user extensions: 17
+[2019-04-03 21:05:36.003] [sharedprocess] [info] Scanned user extensions: 17
+[2019-04-03 21:10:36.041] [sharedprocess] [info] Scanned user extensions: 17
+[2019-04-03 21:15:36.066] [sharedprocess] [info] Scanned user extensions: 17
+[2019-04-03 21:20:36.090] [sharedprocess] [info] Scanned user extensions: 17
+[2019-04-03 21:25:36.125] [sharedprocess] [info] Scanned user extensions: 17
+[2019-04-03 21:30:36.158] [sharedprocess] [info] Scanned user extensions: 17
+[2019-04-03 21:35:36.191] [sharedprocess] [info] Scanned user extensions: 17
+[2019-04-03 21:40:36.228] [sharedprocess] [info] Scanned user extensions: 17
+[2019-04-03 21:45:36.257] [sharedprocess] [info] Scanned user extensions: 17
+[2019-04-03 21:50:36.283] [sharedprocess] [info] Scanned user extensions: 17
+[2019-04-03 21:55:36.324] [sharedprocess] [info] Scanned user extensions: 17
+[2019-04-03 22:00:36.368] [sharedprocess] [info] Scanned user extensions: 17
+[2019-04-03 22:05:36.412] [sharedprocess] [info] Scanned user extensions: 17
+[2019-04-03 22:10:36.449] [sharedprocess] [info] Scanned user extensions: 17
+[2019-04-03 22:15:36.505] [sharedprocess] [info] Scanned user extensions: 17
+[2019-04-03 22:20:36.546] [sharedprocess] [info] Scanned user extensions: 17
+[2019-04-03 22:25:36.573] [sharedprocess] [info] Scanned user extensions: 17

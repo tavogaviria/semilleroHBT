@@ -1,0 +1,13 @@
+package Geometria;
+
+public class Cuadrado extends Figura {
+
+	public Cuadrado(int lados) {
+
+	}
+
+	@Override
+	public int dibujar() {
+		return 4;
+	}
+}

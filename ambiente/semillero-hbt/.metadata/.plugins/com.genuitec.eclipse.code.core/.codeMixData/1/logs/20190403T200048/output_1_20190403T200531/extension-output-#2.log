@@ -1,0 +1,78 @@
+[Info  - 8:05:44 PM] Linter is running.
+[Info  - 8:05:51 PM] TSLint library loaded from: c:\Users\USUARIO\Documents\ambiente\semilleroHBT\ambiente\semillero-hbt\semillero-padre\semillero-web\src\main\angular\node_modules\tslint\lib\index.js
+Warning: The 'no-use-before-declare' rule requires type information.
+Warning: The 'deprecation' rule requires type information.
+[Info  - 8:12:57 PM] vscode-tslint: Status is OK
+The 'use-input-property-decorator' rule threw an error in 'c:/Users/USUARIO/Documents/ambiente/semilleroHBT/ambiente/semillero-hbt/semillero-padre/semillero-web/src/main/angular/src/app/nucleo/capa/main/creacion-personas/creacion-personas.component.ts':
+TypeError: Cannot read property 'text' of undefined
+    at DirectiveMetadataWalker.visitClassDeclaration (c:\Users\USUARIO\Documents\ambiente\semilleroHBT\ambiente\semillero-hbt\semillero-padre\semillero-web\src\main\angular\node_modules\codelyzer\propertyDecoratorBase.js:49:97)
+    at DirectiveMetadataWalker.SyntaxWalker.visitNode (c:\Users\USUARIO\Documents\ambiente\semilleroHBT\ambiente\semillero-hbt\semillero-padre\semillero-web\src\main\angular\node_modules\tslint\lib\language\walker\syntaxWalker.js:314:22)
+    at c:\Users\USUARIO\Documents\ambiente\semilleroHBT\ambiente\semillero-hbt\semillero-padre\semillero-web\src\main\angular\node_modules\tslint\lib\language\walker\syntaxWalker.js:535:63
+    at visitNodes (c:\Users\USUARIO\Documents\ambiente\semilleroHBT\ambiente\semillero-hbt\semillero-padre\semillero-web\src\main\angular\node_modules\typescript\lib\typescript.js:16144:30)
+    at Object.forEachChild (c:\Users\USUARIO\Documents\ambiente\semilleroHBT\ambiente\semillero-hbt\semillero-padre\semillero-web\src\main\angular\node_modules\typescript\lib\typescript.js:16372:24)
+    at DirectiveMetadataWalker.SyntaxWalker.walkChildren (c:\Users\USUARIO\Documents\ambiente\semilleroHBT\ambiente\semillero-hbt\semillero-padre\semillero-web\src\main\angular\node_modules\tslint\lib\language\walker\syntaxWalker.js:535:12)
+    at DirectiveMetadataWalker.SyntaxWalker.visitSourceFile (c:\Users\USUARIO\Documents\ambiente\semilleroHBT\ambiente\semillero-hbt\semillero-padre\semillero-web\src\main\angular\node_modules\tslint\lib\language\walker\syntaxWalker.js:228:14)
+    at DirectiveMetadataWalker.SyntaxWalker.visitNode (c:\Users\USUARIO\Documents\ambiente\semilleroHBT\ambiente\semillero-hbt\semillero-padre\semillero-web\src\main\angular\node_modules\tslint\lib\language\walker\syntaxWalker.js:482:22)
+    at DirectiveMetadataWalker.SyntaxWalker.walk (c:\Users\USUARIO\Documents\ambiente\semilleroHBT\ambiente\semillero-hbt\semillero-padre\semillero-web\src\main\angular\node_modules\tslint\lib\language\walker\syntaxWalker.js:24:14)
+    at Rule.AbstractRule.applyWithWalker (c:\Users\USUARIO\Documents\ambiente\semilleroHBT\ambiente\semillero-hbt\semillero-padre\semillero-web\src\main\angular\node_modules\tslint\lib\language\rule\abstractRule.js:31:16)
+The 'use-output-property-decorator' rule threw an error in 'c:/Users/USUARIO/Documents/ambiente/semilleroHBT/ambiente/semillero-hbt/semillero-padre/semillero-web/src/main/angular/src/app/nucleo/capa/main/creacion-personas/creacion-personas.component.ts':
+TypeError: Cannot read property 'text' of undefined
+    at DirectiveMetadataWalker.visitClassDeclaration (c:\Users\USUARIO\Documents\ambiente\semilleroHBT\ambiente\semillero-hbt\semillero-padre\semillero-web\src\main\angular\node_modules\codelyzer\propertyDecoratorBase.js:49:97)
+    at DirectiveMetadataWalker.SyntaxWalker.visitNode (c:\Users\USUARIO\Documents\ambiente\semilleroHBT\ambiente\semillero-hbt\semillero-padre\semillero-web\src\main\angular\node_modules\tslint\lib\language\walker\syntaxWalker.js:314:22)
+    at c:\Users\USUARIO\Documents\ambiente\semilleroHBT\ambiente\semillero-hbt\semillero-padre\semillero-web\src\main\angular\node_modules\tslint\lib\language\walker\syntaxWalker.js:535:63
+    at visitNodes (c:\Users\USUARIO\Documents\ambiente\semilleroHBT\ambiente\semillero-hbt\semillero-padre\semillero-web\src\main\angular\node_modules\typescript\lib\typescript.js:16144:30)
+    at Object.forEachChild (c:\Users\USUARIO\Documents\ambiente\semilleroHBT\ambiente\semillero-hbt\semillero-padre\semillero-web\src\main\angular\node_modules\typescript\lib\typescript.js:16372:24)
+    at DirectiveMetadataWalker.SyntaxWalker.walkChildren (c:\Users\USUARIO\Documents\ambiente\semilleroHBT\ambiente\semillero-hbt\semillero-padre\semillero-web\src\main\angular\node_modules\tslint\lib\language\walker\syntaxWalker.js:535:12)
+    at DirectiveMetadataWalker.SyntaxWalker.visitSourceFile (c:\Users\USUARIO\Documents\ambiente\semilleroHBT\ambiente\semillero-hbt\semillero-padre\semillero-web\src\main\angular\node_modules\tslint\lib\language\walker\syntaxWalker.js:228:14)
+    at DirectiveMetadataWalker.SyntaxWalker.visitNode (c:\Users\USUARIO\Documents\ambiente\semilleroHBT\ambiente\semillero-hbt\semillero-padre\semillero-web\src\main\angular\node_modules\tslint\lib\language\walker\syntaxWalker.js:482:22)
+    at DirectiveMetadataWalker.SyntaxWalker.walk (c:\Users\USUARIO\Documents\ambiente\semilleroHBT\ambiente\semillero-hbt\semillero-padre\semillero-web\src\main\angular\node_modules\tslint\lib\language\walker\syntaxWalker.js:24:14)
+    at Rule.AbstractRule.applyWithWalker (c:\Users\USUARIO\Documents\ambiente\semilleroHBT\ambiente\semillero-hbt\semillero-padre\semillero-web\src\main\angular\node_modules\tslint\lib\language\rule\abstractRule.js:31:16)
+The 'use-host-property-decorator' rule threw an error in 'c:/Users/USUARIO/Documents/ambiente/semilleroHBT/ambiente/semillero-hbt/semillero-padre/semillero-web/src/main/angular/src/app/nucleo/capa/main/creacion-personas/creacion-personas.component.ts':
+TypeError: Cannot read property 'text' of undefined
+    at DirectiveMetadataWalker.visitClassDeclaration (c:\Users\USUARIO\Documents\ambiente\semilleroHBT\ambiente\semillero-hbt\semillero-padre\semillero-web\src\main\angular\node_modules\codelyzer\propertyDecoratorBase.js:49:97)
+    at DirectiveMetadataWalker.SyntaxWalker.visitNode (c:\Users\USUARIO\Documents\ambiente\semilleroHBT\ambiente\semillero-hbt\semillero-padre\semillero-web\src\main\angular\node_modules\tslint\lib\language\walker\syntaxWalker.js:314:22)
+    at c:\Users\USUARIO\Documents\ambiente\semilleroHBT\ambiente\semillero-hbt\semillero-padre\semillero-web\src\main\angular\node_modules\tslint\lib\language\walker\syntaxWalker.js:535:63
+    at visitNodes (c:\Users\USUARIO\Documents\ambiente\semilleroHBT\ambiente\semillero-hbt\semillero-padre\semillero-web\src\main\angular\node_modules\typescript\lib\typescript.js:16144:30)
+    at Object.forEachChild (c:\Users\USUARIO\Documents\ambiente\semilleroHBT\ambiente\semillero-hbt\semillero-padre\semillero-web\src\main\angular\node_modules\typescript\lib\typescript.js:16372:24)
+    at DirectiveMetadataWalker.SyntaxWalker.walkChildren (c:\Users\USUARIO\Documents\ambiente\semilleroHBT\ambiente\semillero-hbt\semillero-padre\semillero-web\src\main\angular\node_modules\tslint\lib\language\walker\syntaxWalker.js:535:12)
+    at DirectiveMetadataWalker.SyntaxWalker.visitSourceFile (c:\Users\USUARIO\Documents\ambiente\semilleroHBT\ambiente\semillero-hbt\semillero-padre\semillero-web\src\main\angular\node_modules\tslint\lib\language\walker\syntaxWalker.js:228:14)
+    at DirectiveMetadataWalker.SyntaxWalker.visitNode (c:\Users\USUARIO\Documents\ambiente\semilleroHBT\ambiente\semillero-hbt\semillero-padre\semillero-web\src\main\angular\node_modules\tslint\lib\language\walker\syntaxWalker.js:482:22)
+    at DirectiveMetadataWalker.SyntaxWalker.walk (c:\Users\USUARIO\Documents\ambiente\semilleroHBT\ambiente\semillero-hbt\semillero-padre\semillero-web\src\main\angular\node_modules\tslint\lib\language\walker\syntaxWalker.js:24:14)
+    at Rule.AbstractRule.applyWithWalker (c:\Users\USUARIO\Documents\ambiente\semilleroHBT\ambiente\semillero-hbt\semillero-padre\semillero-web\src\main\angular\node_modules\tslint\lib\language\rule\abstractRule.js:31:16)
+The 'use-life-cycle-interface' rule threw an error in 'c:/Users/USUARIO/Documents/ambiente/semilleroHBT/ambiente/semillero-hbt/semillero-padre/semillero-web/src/main/angular/src/app/nucleo/capa/main/creacion-personas/creacion-personas.component.ts':
+TypeError: Cannot read property 'text' of undefined
+    at ClassMetadataWalker.visitClassDeclaration (c:\Users\USUARIO\Documents\ambiente\semilleroHBT\ambiente\semillero-hbt\semillero-padre\semillero-web\src\main\angular\node_modules\codelyzer\useLifeCycleInterfaceRule.js:56:35)
+    at ClassMetadataWalker.SyntaxWalker.visitNode (c:\Users\USUARIO\Documents\ambiente\semilleroHBT\ambiente\semillero-hbt\semillero-padre\semillero-web\src\main\angular\node_modules\tslint\lib\language\walker\syntaxWalker.js:314:22)
+    at c:\Users\USUARIO\Documents\ambiente\semilleroHBT\ambiente\semillero-hbt\semillero-padre\semillero-web\src\main\angular\node_modules\tslint\lib\language\walker\syntaxWalker.js:535:63
+    at visitNodes (c:\Users\USUARIO\Documents\ambiente\semilleroHBT\ambiente\semillero-hbt\semillero-padre\semillero-web\src\main\angular\node_modules\typescript\lib\typescript.js:16144:30)
+    at Object.forEachChild (c:\Users\USUARIO\Documents\ambiente\semilleroHBT\ambiente\semillero-hbt\semillero-padre\semillero-web\src\main\angular\node_modules\typescript\lib\typescript.js:16372:24)
+    at ClassMetadataWalker.SyntaxWalker.walkChildren (c:\Users\USUARIO\Documents\ambiente\semilleroHBT\ambiente\semillero-hbt\semillero-padre\semillero-web\src\main\angular\node_modules\tslint\lib\language\walker\syntaxWalker.js:535:12)
+    at ClassMetadataWalker.SyntaxWalker.visitSourceFile (c:\Users\USUARIO\Documents\ambiente\semilleroHBT\ambiente\semillero-hbt\semillero-padre\semillero-web\src\main\angular\node_modules\tslint\lib\language\walker\syntaxWalker.js:228:14)
+    at ClassMetadataWalker.SyntaxWalker.visitNode (c:\Users\USUARIO\Documents\ambiente\semilleroHBT\ambiente\semillero-hbt\semillero-padre\semillero-web\src\main\angular\node_modules\tslint\lib\language\walker\syntaxWalker.js:482:22)
+    at ClassMetadataWalker.SyntaxWalker.walk (c:\Users\USUARIO\Documents\ambiente\semilleroHBT\ambiente\semillero-hbt\semillero-padre\semillero-web\src\main\angular\node_modules\tslint\lib\language\walker\syntaxWalker.js:24:14)
+    at Rule.AbstractRule.applyWithWalker (c:\Users\USUARIO\Documents\ambiente\semilleroHBT\ambiente\semillero-hbt\semillero-padre\semillero-web\src\main\angular\node_modules\tslint\lib\language\rule\abstractRule.js:31:16)
+The 'directive-selector' rule threw an error in 'c:/Users/USUARIO/Documents/ambiente/semilleroHBT/ambiente/semillero-hbt/semillero-padre/semillero-web/src/main/angular/src/app/nucleo/capa/main/creacion-personas/creacion-personas.component.ts':
+TypeError: Cannot read property 'text' of undefined
+    at SelectorValidatorWalker.visitClassDeclaration (c:\Users\USUARIO\Documents\ambiente\semilleroHBT\ambiente\semillero-hbt\semillero-padre\semillero-web\src\main\angular\node_modules\codelyzer\selectorNameBase.js:95:97)
+    at SelectorValidatorWalker.SyntaxWalker.visitNode (c:\Users\USUARIO\Documents\ambiente\semilleroHBT\ambiente\semillero-hbt\semillero-padre\semillero-web\src\main\angular\node_modules\tslint\lib\language\walker\syntaxWalker.js:314:22)
+    at c:\Users\USUARIO\Documents\ambiente\semilleroHBT\ambiente\semillero-hbt\semillero-padre\semillero-web\src\main\angular\node_modules\tslint\lib\language\walker\syntaxWalker.js:535:63
+    at visitNodes (c:\Users\USUARIO\Documents\ambiente\semilleroHBT\ambiente\semillero-hbt\semillero-padre\semillero-web\src\main\angular\node_modules\typescript\lib\typescript.js:16144:30)
+    at Object.forEachChild (c:\Users\USUARIO\Documents\ambiente\semilleroHBT\ambiente\semillero-hbt\semillero-padre\semillero-web\src\main\angular\node_modules\typescript\lib\typescript.js:16372:24)
+    at SelectorValidatorWalker.SyntaxWalker.walkChildren (c:\Users\USUARIO\Documents\ambiente\semilleroHBT\ambiente\semillero-hbt\semillero-padre\semillero-web\src\main\angular\node_modules\tslint\lib\language\walker\syntaxWalker.js:535:12)
+    at SelectorValidatorWalker.SyntaxWalker.visitSourceFile (c:\Users\USUARIO\Documents\ambiente\semilleroHBT\ambiente\semillero-hbt\semillero-padre\semillero-web\src\main\angular\node_modules\tslint\lib\language\walker\syntaxWalker.js:228:14)
+    at SelectorValidatorWalker.SyntaxWalker.visitNode (c:\Users\USUARIO\Documents\ambiente\semilleroHBT\ambiente\semillero-hbt\semillero-padre\semillero-web\src\main\angular\node_modules\tslint\lib\language\walker\syntaxWalker.js:482:22)
+    at SelectorValidatorWalker.SyntaxWalker.walk (c:\Users\USUARIO\Documents\ambiente\semilleroHBT\ambiente\semillero-hbt\semillero-padre\semillero-web\src\main\angular\node_modules\tslint\lib\language\walker\syntaxWalker.js:24:14)
+    at Rule.AbstractRule.applyWithWalker (c:\Users\USUARIO\Documents\ambiente\semilleroHBT\ambiente\semillero-hbt\semillero-padre\semillero-web\src\main\angular\node_modules\tslint\lib\language\rule\abstractRule.js:31:16)
+The 'component-selector' rule threw an error in 'c:/Users/USUARIO/Documents/ambiente/semilleroHBT/ambiente/semillero-hbt/semillero-padre/semillero-web/src/main/angular/src/app/nucleo/capa/main/creacion-personas/creacion-personas.component.ts':
+TypeError: Cannot read property 'text' of undefined
+    at SelectorValidatorWalker.visitClassDeclaration (c:\Users\USUARIO\Documents\ambiente\semilleroHBT\ambiente\semillero-hbt\semillero-padre\semillero-web\src\main\angular\node_modules\codelyzer\selectorNameBase.js:95:97)
+    at SelectorValidatorWalker.SyntaxWalker.visitNode (c:\Users\USUARIO\Documents\ambiente\semilleroHBT\ambiente\semillero-hbt\semillero-padre\semillero-web\src\main\angular\node_modules\tslint\lib\language\walker\syntaxWalker.js:314:22)
+    at c:\Users\USUARIO\Documents\ambiente\semilleroHBT\ambiente\semillero-hbt\semillero-padre\semillero-web\src\main\angular\node_modules\tslint\lib\language\walker\syntaxWalker.js:535:63
+    at visitNodes (c:\Users\USUARIO\Documents\ambiente\semilleroHBT\ambiente\semillero-hbt\semillero-padre\semillero-web\src\main\angular\node_modules\typescript\lib\typescript.js:16144:30)
+    at Object.forEachChild (c:\Users\USUARIO\Documents\ambiente\semilleroHBT\ambiente\semillero-hbt\semillero-padre\semillero-web\src\main\angular\node_modules\typescript\lib\typescript.js:16372:24)
+    at SelectorValidatorWalker.SyntaxWalker.walkChildren (c:\Users\USUARIO\Documents\ambiente\semilleroHBT\ambiente\semillero-hbt\semillero-padre\semillero-web\src\main\angular\node_modules\tslint\lib\language\walker\syntaxWalker.js:535:12)
+    at SelectorValidatorWalker.SyntaxWalker.visitSourceFile (c:\Users\USUARIO\Documents\ambiente\semilleroHBT\ambiente\semillero-hbt\semillero-padre\semillero-web\src\main\angular\node_modules\tslint\lib\language\walker\syntaxWalker.js:228:14)
+    at SelectorValidatorWalker.SyntaxWalker.visitNode (c:\Users\USUARIO\Documents\ambiente\semilleroHBT\ambiente\semillero-hbt\semillero-padre\semillero-web\src\main\angular\node_modules\tslint\lib\language\walker\syntaxWalker.js:482:22)
+    at SelectorValidatorWalker.SyntaxWalker.walk (c:\Users\USUARIO\Documents\ambiente\semilleroHBT\ambiente\semillero-hbt\semillero-padre\semillero-web\src\main\angular\node_modules\tslint\lib\language\walker\syntaxWalker.js:24:14)
+    at Rule.AbstractRule.applyWithWalker (c:\Users\USUARIO\Documents\ambiente\semilleroHBT\ambiente\semillero-hbt\semillero-padre\semillero-web\src\main\angular\node_modules\tslint\lib\language\rule\abstractRule.js:31:16)
+[Info  - 10:08:47 PM] vscode-tslint: Status is OK

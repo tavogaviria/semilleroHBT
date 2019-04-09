@@ -1,0 +1,14 @@
+package Geometria;
+
+public class Ciculo extends Figura {
+
+	public Ciculo() {
+		super();
+	}
+	
+	@Override
+	public int dibujar() {
+		return super.dibujar();
+	}
+
+}

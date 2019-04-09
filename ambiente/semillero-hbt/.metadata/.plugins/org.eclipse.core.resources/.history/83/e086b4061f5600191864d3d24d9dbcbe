@@ -1,0 +1,11 @@
+package Geometria;
+
+public class Circulo extends Figura {
+
+	@Override
+	public int dibujar() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

@@ -1,0 +1,10 @@
+package Roedores;
+
+public class Roedores {	
+	
+	public String nombre;
+	
+	public String comer(){
+		return "Comida";
+	}
+}

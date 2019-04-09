@@ -1,0 +1,25 @@
+package Geometria;
+
+public class FiguraApp {
+
+	public static void main(String[] args) {
+		Figura triangulo = new Triangulo(31,"Isoceles");
+		Figura circulo = new Ciculo(0,"Grande");
+		Figura cuadrado = new Cuadrado(4, "Rectangulo");
+		
+		System.out.println(triangulo.getNombre());
+		System.out.println(triangulo.dibujar());
+		
+		System.out.println("--");
+		
+		System.out.println(circulo.getNombre());
+		System.out.println(circulo.dibujar());
+		
+		System.out.println("--");
+		
+		System.out.println(cuadrado.getNombre());
+		System.out.println(cuadrado.dibujar());
+
+	}
+
+}

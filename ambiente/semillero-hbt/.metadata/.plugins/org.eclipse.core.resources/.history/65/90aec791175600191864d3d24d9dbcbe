@@ -1,0 +1,7 @@
+package Roedores;
+
+public class Raton extends Roedores {
+		public String comer() {
+			return "Basura";
+		}
+}

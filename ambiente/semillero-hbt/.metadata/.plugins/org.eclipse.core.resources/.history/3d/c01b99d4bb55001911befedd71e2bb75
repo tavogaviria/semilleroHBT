@@ -1,0 +1,23 @@
+package Geometria;
+
+public class Figura {
+
+	public int lados;
+	
+	public int getLados() {
+		return lados;
+	}
+
+	public void setLados(int lados) {
+		this.lados = lados;
+	}
+
+	public Figura(int lados) {
+		super();
+		this.lados = lados;
+	}
+
+	public int dibujar() {
+		return lados;
+	}
+}
