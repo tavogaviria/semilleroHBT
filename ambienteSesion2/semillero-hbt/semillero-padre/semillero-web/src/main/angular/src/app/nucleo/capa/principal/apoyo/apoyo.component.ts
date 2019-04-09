@@ -64,8 +64,12 @@ export class ApoyoComponent implements OnInit {
    * borrar los datos de la persona en el arreglo
    */
   private borrar(persona) {
-    this.personas.splice(persona);
-    console.log('Eliminado' + this.persona.nombre);
+    for (let i = 0; i < this.personas.length; i++) {
+      if (persona == this.personas[i]) {
+        this.personas.splice(i, 1);
+      }
+    }
+    alert('Eliminado');
   }
 
 }
