@@ -1,7 +1,0 @@
-package Roedores;
-
-public class Roedores {	
-	public String comer(){
-		return "Comida";
-	}
-}

@@ -1,5 +1,0 @@
-package Geometria;
-
-public class Ciculo extends Figura {
-
-}

@@ -1,8 +1,0 @@
-package Roedores;
-
-public class Hamster extends Roedores {
-	public String comer() {
-		return "Cuido";
-	}
-
-}

@@ -1,5 +1,0 @@
-package Roedores;
-
-public class Raton extends Roedores {
-
-}
